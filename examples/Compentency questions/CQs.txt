@@ -1,0 +1,14 @@
+CQ1: What is the state of PV power generation?
+CQ2: Protect the system from backflow.
+CQ3: When the temperature difference of a same module is greater than 20℃, the PV module is broken.
+CQ4: Where is the faulty PV module?
+CQ5: Is the state of the battery discharging?
+CQ6: Should the battery discharge?
+CQ7: The load has reached the peak state, please discharge the battery.
+CQ8: The weather is cloudy, and electrical use is supplied by batteries.
+CQ9: What is the battery state when PV generated power is insufficient to support building loads?
+CQ10: Pre-cooling operation command based on the zone and weather conditions. 
+CQ11: When there is occupancy, the lights are on. 
+CQ12: Is the attenuation rate of the component less than 3%?
+CQ13: Because of extreme weather, the PV maintenance plan needs to be postponed.
+CQ14: Who is responsible for the PV maintenance for the next time? 

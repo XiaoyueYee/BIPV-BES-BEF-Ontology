@@ -1,0 +1,5 @@
+The owl:Thing class is a pre-defined class in W3C Web Ontology Language (OWL), and every OWL class is a subclass of owl:Thing. The developed ontology comprises a set of 23 primary classes which serve as the basis for further division into various subclasses. 
+
+Among the main classes, BIPVSystem, BatteryEnergyStorageSystem, and BuildingFlexibleControl classes are the most significant ones, which represent the specification, operation condition, and maintenance requirements involved during BIPV, BES, and BEF O&M. 
+
+General information that may be shared throughout BIPV, BES, and BEF domains is included in additional primary classes. For example, GeneralElectricalTerm, ElectricalPassiveComponents, GeneralTechnicalSpecification, LocationInformation, OperationEnvironment, ApplicationScope, Stakeholder, PerformanceGoal, EnergyParameter, Schedule, Communication, FireProtection, LightningProtection, Formula, DataPoint, OperationDateTime, MaintenanceSpecification, DistributedEnergyResourse, District and Microgrid.

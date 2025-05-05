@@ -1,0 +1,3 @@
+The SWRL rule inference addresses the competency questions (CQs). "CQ.txt" file contain the discriptions of CQs. 
+
+Please refer to the SWRLTab or SQWRLTab in Protégé for the SWRL rule corresponding to each CQ. To obtain the answers, please click "start reasoning". When reviewing the results of the CQs, ensure to match the class on the right-hand side of "->" with the corresponding input to data properties.
